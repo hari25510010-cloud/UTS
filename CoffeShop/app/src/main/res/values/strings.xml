@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeShop</string>
+    <string name="choice_your_nfavorite_coffe">Choice your/nFavorite Coffe</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_anything">Search Anything...</string>
+    <string name="popular_coffe">Popular Coffe</string>
+    <string name="popular_coffee">Popular Coffee</string>
+    <string name="cart">Cart</string>
+    <string name="explorer">Explorer</string>
+    <string name="profile">Profile</string>
+    <string name="enter_your_discount_code">Enter Your Discount Code</string>
+    <string name="apply">Apply</string>
+</resources>
